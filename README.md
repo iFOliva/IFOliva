@@ -1,7 +1,7 @@
  <h3><center>Bem vindo ao meu perfil! Me chamo Ícaro, prazer em vê-lo. 👾</center></h3>
 <div style="display: inline_block align=left">
   <a href="https://github.com/iFOliva">
-  <img height="132em" src="https://github-readme-stats.vercel.app/api?username=claudio-jin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="132em" src="https://github-readme-stats.vercel.app/api?username=iFOliva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="132em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iFOliva&layout=compact&langs_count=7&theme=dark"/><br>
   <h4>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Conhecimento em:</h4>  
   <img align="left"  height="180" width = "180" src="https://media1.giphy.com/media/10RgZyfaX0HBSg/giphy.gif"> 
